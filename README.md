@@ -3,7 +3,8 @@ The Sleep Health & Disorder Prediction System is a machine-learning application 
 The system uses a Random Forest Classifier, trained on features such as sleep duration, physical activity level, stress, BMI, heart rate, caffeine consumption, and daily routine patterns.
 
 Overview
--This project uses a Random Forest Classifier to predict whether a person has:
+
+This project uses a Random Forest Classifier to predict whether a person has:
 -No Sleep Disorder
 -Sleep Apnea
 -Insomnia
